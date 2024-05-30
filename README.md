@@ -1,6 +1,6 @@
-**Welocome** <br>
+              **Welcome** <br>
 
-Note: this webservice is hosted on  https://userdata-0304.onrender.com   <br>  please wait 30 sec for the first time , because it is free tier<br>
+Note: This webservice is hosted on  https://userdata-0304.onrender.com   <br>  please wait 30 sec for the first time , because it is free tier<br>
 use these endpoints
 1.  user/signup         to register the user  <br>
 2.  user/login          to login <br>
